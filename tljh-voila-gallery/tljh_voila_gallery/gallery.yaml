@@ -2,7 +2,7 @@ examples:
   country-indicators:
     title: Country Indicators
     description: Explore the correlations between indicators of development using matplotlib and ipywidgets
-    url: https://jhub.efishery.com/user/yurio.windiatmoko@efishery.com/voila/render/scratch/Cobacoba.ipynb
+    url: voila/render/scratch/Cobacoba.ipynb
     repo_url: https://github.com/voila-gallery/voila-gallery-country-indicators
     ref: 7cd5df8169fe6acefe1d5a200f9878e441b9208a
     image_url: https://i.imgur.com/IeG75O3.png
